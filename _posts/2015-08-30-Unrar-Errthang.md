@@ -5,7 +5,7 @@ tags: [unrar, extract, formatting, format]
 
 ---
 
-![Unrar]({{ site.url }}/uploads/2015/08/unrar-256x256.png)
+![Unrar](/assets/images/unrar-256x256.png)
 {: .image-pull-right}
 Sometimes I'm lazy. 
 Sometimes I try to think of better ways to do things even if there exists a perfect way to do it already.
