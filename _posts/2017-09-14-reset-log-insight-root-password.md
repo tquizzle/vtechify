@@ -12,6 +12,6 @@ The other day I did the inevitable, I forgot the root password to my vRealize Lo
 ### Reset the Log Insight Password
 1. Power off the Log Insight appliance by choosing "Shut Down Guest OS".
 2. Edit it's settings once it's off.
-![vApp Options]({{ site.url }}/images/vApp_Options.gif)
+![vApp Options](/assets/images/vApp_Options.gif)
 
 Now, go forth and Log!

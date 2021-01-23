@@ -22,7 +22,7 @@ PreRequisite: You must sign up for [DuckDNS service](https://www.duckdns.org/). 
 
 Apply that change and you should be in business.
 
-![EdgeRouter DDNS]({{ site.url }}/images/edgerouter-dynamic-dns.png)
+![EdgeRouter DDNS](/assets/images/edgerouter-dynamic-dns.png)
 
 
 You can always see the status by opening up console to your router and issuing the following command:
