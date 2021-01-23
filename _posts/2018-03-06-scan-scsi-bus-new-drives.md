@@ -1,10 +1,8 @@
 ---
-layout: post
 title: Scan SCSI bus for new drive
 excerpt: "When adding a new disk to a Linux VM, you usually have to reboot for the system to recognize the disk. Now you don't have to."
 tags: [scan, reboot, linux, scsi]
 modified: 2014-09-14
-comments: true
 ---
 
 Recently when adding a new disk to a VM, a colleague of mine suggested a new trick.
